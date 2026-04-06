@@ -22,5 +22,5 @@ I am a quantitative data scientist with a strong mathematical background, curren
 * **NLP & LLM Hybrid Search (Python):** Built an NLP hybrid search tool using Large Language Models (LLMs) for the extraction and analysis of textual information.
 
 ### 📫 How to reach me
-* **LinkedIn:** [Insert your LinkedIn Link here]
+* **LinkedIn:** https://www.linkedin.com/in/caroline-nguyen-8b2305256/
 * **Email:** caroline.ngy1@gmail.com
